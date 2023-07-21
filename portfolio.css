@@ -1,3 +1,6 @@
+body {
+    padding-bottom:500px;
+}
 .backgroundmakeover-01{
     background-image: url('https://img.freepik.com/free-vector/matrix-style-binary-code-digital-background-with-falling-numbers_1017-25336.jpg?w=740&t=st=1683706260~exp=1683706860~hmac=dafffa92c85d5dbe759f9f0f7fdd0c2840ea511dc256def9eb2585cc142fe02a');
     background-repeat:no-repeat;
@@ -37,6 +40,7 @@ p:hover {
     font-weight:600;
     border-style:solid;
     border-color:black;
+    cursor:pointer;
 
 }
 .backgroundmakeover-02 {
